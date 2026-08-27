@@ -1,0 +1,15 @@
+{
+  "contentVersion": "LO 33",
+  "databaseSHA256": "f84cc4c8f9b464ef6bf0e20fad1faa6639dd08728a1c96b3eda39572c18693ec",
+  "databaseSchemaVersion": 2,
+  "databaseURL": "https://lenesiceopen.github.io/lenesice-open-content/database-lo-33.json",
+  "expectedCounts": {
+    "players": 59,
+    "results": 371,
+    "tournaments": 33
+  },
+  "formatVersion": 1,
+  "minimumAppVersion": "1.0",
+  "photos": [],
+  "publishedAt": "2026-08-27T14:32:16Z"
+}
