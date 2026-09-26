@@ -1,15 +1,141 @@
 {
-  "contentVersion": "LO 33",
-  "databaseSHA256": "f84cc4c8f9b464ef6bf0e20fad1faa6639dd08728a1c96b3eda39572c18693ec",
+  "contentVersion": "LO 34",
+  "databaseSHA256": "16225fd3ea4e5450f5e805d88acd05e14eb4f4a27a1344cf708cc09bba294c7c",
   "databaseSchemaVersion": 2,
-  "databaseURL": "https://lenesiceopen.github.io/lenesice-open-content/database-lo-33.json",
+  "databaseURL": "https://lenesiceopen.github.io/lenesice-open-content/database-lo-34.json",
   "expectedCounts": {
-    "players": 59,
-    "results": 371,
-    "tournaments": 33
+    "players": 61,
+    "results": 382,
+    "tournaments": 34
   },
   "formatVersion": 1,
   "minimumAppVersion": "1.0",
-  "photos": [],
-  "publishedAt": "2026-08-27T14:32:16Z"
+  "photos": [
+    {
+      "name": "LO34_01_josef_dostal",
+      "sha256": "e616eb35ab0f636652a69c68dc0b1bc5ba0989697728d2b01d556c166d8f4e2b",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_01_josef_dostal.jpg"
+    },
+    {
+      "name": "LO34_02_martin_tomek",
+      "sha256": "1aeb3dc398774e701f26b1a96318d832aaf751f9dded6bd5b47b401fde4794f5",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_02_martin_tomek.jpg"
+    },
+    {
+      "name": "LO34_03_miroslav_hrncal",
+      "sha256": "f7de318079807edf65da8aa3f966431a0a7dd6b385c9ffeaeeba1aec472d88b0",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_03_miroslav_hrncal.jpg"
+    },
+    {
+      "name": "LO34_04_miroslav_hrncal",
+      "sha256": "319cf7f933a85c66eade6c5b07362da8606914a7bc7e6862f34c970a56b223fe",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_04_miroslav_hrncal.jpg"
+    },
+    {
+      "name": "LO34_05_vojtech_vicherek",
+      "sha256": "a2c026003c42d7e381185d9cbd1cbaa801ddd8205111083ebe19ed0a549fb31d",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_05_vojtech_vicherek.jpg"
+    },
+    {
+      "name": "LO34_06_vojtech_vicherek",
+      "sha256": "5beefd7009a7439755acaf0bbf53aa557d7cd753d5ba688db7d9e3c97689f84a",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_06_vojtech_vicherek.jpg"
+    },
+    {
+      "name": "LO34_07_silvie_richtrova",
+      "sha256": "653ad847df939f418b906bfa6a85b9314883bb145197f2df96e31a646b2ceb3e",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_07_silvie_richtrova.jpg"
+    },
+    {
+      "name": "LO34_08_tomas_zlatohlavek",
+      "sha256": "60cf5001936350113c88cdc861559b0f9ae06673235b4dbfb795d2a191e1ef9a",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_08_tomas_zlatohlavek.jpg"
+    },
+    {
+      "name": "LO34_09_josef_dostal",
+      "sha256": "4fddf03eac7f0b9e90800c9b2159091c49f36681c7abf768c3333dfac8b6f2b3",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_09_josef_dostal.jpg"
+    },
+    {
+      "name": "LO34_10_josef_dostal",
+      "sha256": "dc239468ad3bcbffac6ac4c13ec03e1d190e8afc30122588e96f06482b3f51bd",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_10_josef_dostal.jpg"
+    },
+    {
+      "name": "LO34_11_silvie_richtrova",
+      "sha256": "de4078c8d4ad10a3b0e98f9dee908af099b3f9c7684c6d4bf58174fbd600e09e",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_11_silvie_richtrova.jpg"
+    },
+    {
+      "name": "LO34_12_silvie_richtrova",
+      "sha256": "669520aeb2982eb94587682006cbf22ec31abd7e0b0070e1b68b09e2d3628221",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_12_silvie_richtrova.jpg"
+    },
+    {
+      "name": "LO34_13_josef_dostal",
+      "sha256": "466bf956f3e96810e188928a9767ac248ca22bb317923b965383ffe85212f118",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_13_josef_dostal.jpg"
+    },
+    {
+      "name": "LO34_14_tomas_zlatohlavek",
+      "sha256": "d386c50e75f7142fdbc909fc36f9ac01b92e9bd9940acb5198dd167f5331f98a",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_14_tomas_zlatohlavek.jpg"
+    },
+    {
+      "name": "LO34_15_tomas_zlatohlavek",
+      "sha256": "d6daa92dc43b3a6f7a84b0cc82a12abc417f9c6c837262bf405db1bc31a37533",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_15_tomas_zlatohlavek.jpg"
+    },
+    {
+      "name": "LO34_16_josef_dostal",
+      "sha256": "0dbcd0ecea4d62c8f4f14dc92ddd7c31bc47de9fcc2c25325d61af739711caa5",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_16_josef_dostal.jpg"
+    },
+    {
+      "name": "LO34_17_silvie_richtrova",
+      "sha256": "80a6511df1ca039f7e69f2e5b1bff7adaa13c044a477d851931a7ad23cde9ca5",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_17_silvie_richtrova.jpg"
+    },
+    {
+      "name": "LO34_18",
+      "sha256": "e35a89ecc3c00486f3f91e496f2038d92474bfcfccecd57837883ffe9cc7a042",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_18.jpg"
+    },
+    {
+      "name": "LO34_19",
+      "sha256": "85a9f5403bb14fd1e95fc094edaf9fb71d1a1fdbb15ba4a97768daa3313b95c9",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_19.jpg"
+    },
+    {
+      "name": "LO34_20",
+      "sha256": "f3cb790e4ca27139e31d76bc95526d7499e0beb91b1a9f2e764b8a73f6800650",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_20.jpg"
+    },
+    {
+      "name": "LO34_21",
+      "sha256": "1bba57633620c5ab145b37712ce6b0484b45222eebe29bc4b41b7984dcef4447",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_21.jpg"
+    },
+    {
+      "name": "LO34_22",
+      "sha256": "2d1eb5227942b6b5a306cb6cc9ed9db15cf50daa87ace19a04d77b853480ca7f",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_22.jpg"
+    },
+    {
+      "name": "LO34_all",
+      "sha256": "95118af81df3bf24337345bcaa657baf13cceee4c18a045f9d76d50ca179e0da",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/LO34_all.jpg"
+    },
+    {
+      "name": "head_josef_dostal",
+      "sha256": "4f92fa02d8199cd3411c6f8a5ebba24a9bb6ca4ca7345aa8a89d6d4947c7df52",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/head_josef_dostal.jpg"
+    },
+    {
+      "name": "head_silvie_richtrova",
+      "sha256": "6ca82bb32a6d050014d521384d83a8c8741c221a2366c1d8b48bf88bff7a5cc1",
+      "url": "https://lenesiceopen.github.io/lenesice-open-content/photos/head_silvie_richtrova.jpg"
+    }
+  ],
+  "publishedAt": "2026-09-26T16:11:25Z"
 }
